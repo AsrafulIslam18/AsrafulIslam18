@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 👋 Hi, I'm Asraful Islam
 
 I'm a Software Engineering student at Daffodil International University, passionate about building scalable web applications and solving real-world problems through software.
