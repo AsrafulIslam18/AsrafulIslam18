@@ -1,5 +1,78 @@
 # 💫 About Me:
-I'm a Software Engineering student at Daffodil International University building<br>toward one goal: becoming a remote Full Stack Developer who ships real products for<br>international teams.<br><br>What I work with today:<br>→ Frontend: HTML5, CSS3, JavaScript, TypeScript, React, Next.js<br>→ Backend: Node.js, Express.js, REST APIs<br>→ Database: PostgreSQL, Prisma ORM<br>→ Tools: Git, GitHub<br><br>I also code in Python, C, C++, and Java, and I'm actively extending that Python<br>foundation toward AI-powered web development — FastAPI, the OpenAI API, and the<br>Claude API — because I believe the next generation of web apps will be AI-native,<br>and I want to be building them, not catching up to them.<br><br>Right now I'm:<br>🔹 Building full-stack projects with the React/Next.js + Node.js/PostgreSQL stack<br>🔹 Contributing to the DIU Software Engineering Club<br>🔹 Looking for a remote Full Stack Developer role or freelance/contract work with<br>   international teams<br><br>If you're a startup founder, CTO, or recruiter hiring remote developers — or just<br>another engineer building in public — I'd love to connect.<br>
+# 👋 Hi, I'm Asraful Islam
+
+I'm a Software Engineering student at Daffodil International University, passionate about building scalable web applications and solving real-world problems through software.
+
+My current goal is to become a Remote Full Stack Developer while continuously evolving into an AI-First Software Engineer specializing in intelligent web applications.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- PostgreSQL
+- Prisma ORM
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+### Programming Languages
+- JavaScript
+- TypeScript
+- Python
+- C
+- C++
+- Java
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React & Next.js
+- Backend Architecture
+- PostgreSQL & Prisma
+- Building Production-Ready Full Stack Applications
+
+---
+
+## 🎯 Future Focus
+
+After building a strong Full Stack foundation, I'm expanding into:
+
+- FastAPI
+- OpenAI API
+- Claude API
+- AI-powered Web Applications
+- Software Architecture
+- Cloud Technologies
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to:
+
+- Remote opportunities
+- Open Source Collaboration
+- Networking with Developers
+- Startup Project
 
 
 ## 🌐 Socials:
