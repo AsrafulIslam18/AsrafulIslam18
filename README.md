@@ -11,43 +11,57 @@ My current goal is to become a Remote Full Stack Developer while continuously ev
 
 <table>
 <tr>
-
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,prisma" />
-</p>
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
+
+### ⚙️ Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### 🗄️ Database
+
+- PostgreSQL
+- Prisma ORM
+
+</td>
+
+<td valign="top" width="34%">
 
 ### 🛠️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+- Git
+- GitHub
+- VS Code
+- Postman
 
-### 💻 Programming
+### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java" />
-</p>
+- JavaScript
+- TypeScript
+- Python
+- C
+- C++
+- Java
 
+</td>
+</tr>
+</table>
 ### 🌱 Currently Learning
 
 - Building Production-Ready Full Stack Applications
