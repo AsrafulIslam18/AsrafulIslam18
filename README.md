@@ -65,8 +65,6 @@ After building a strong Full Stack foundation, I'm expanding into:
 
 ---
 
-## 📫 Let's Connect
-
 I'm always open to:
 
 - Remote opportunities
@@ -74,6 +72,7 @@ I'm always open to:
 - Networking with Developers
 - Startup Project
 
+## 📫 Let's Connect
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Asraful Islam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asraful_islam_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asraful Islam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:islam2305341449@diu.edu.bd) 
